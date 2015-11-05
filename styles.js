@@ -5,7 +5,7 @@ const NAV_HEIGHT = NAV_BAR_HEIGHT + STATUS_BAR_HEIGHT;
 module.exports = {
   navBarContainer: {
     backgroundColor: 'white',
-    paddingBottom: 5,
+    // paddingBottom: 5,
     borderBottomColor: 'rgba(0, 0, 0, .5)',
     borderBottomWidth: .5,
   },
